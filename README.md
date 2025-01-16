@@ -9,7 +9,7 @@
 🛠️ Skills & Tools
 - Languages: Python, TypeScript
 - Frameworks & Tools: Next JS
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sharjeel-Asif&layout=compact)
 
 
 📈 Stats
