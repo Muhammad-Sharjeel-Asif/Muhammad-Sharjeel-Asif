@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @MuhammadSharjeel
+# Hi there 👋, I'm [Muhammad Sharjeel]
+
+## 🌟 About Me
 - 👀 I’m interested in Tech related things.
 - 🌱 I’m currently learning GenAI, Web3 & Metaverse.
 - 💞️ I’m not looking to collaborate for now.
@@ -6,14 +8,12 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm Enrolled in Governor Initiative Onsite Course.
 
-🛠️ Skills & Tools
-- Languages: Python, TypeScript
-- Frameworks & Tools: Next JS
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sharjeel-Asif&layout=compact)
+## 🛠️ Skills & Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sharjeel-Asif&layout=compact)
 
 
-📈 Stats
+## 📈 Stats
 - ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Sharjeel-Asif&show_icons=true&theme=tokyonight&hide_border=true)
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://linkedin.com/in/muhammad-sharjeel-asif)
