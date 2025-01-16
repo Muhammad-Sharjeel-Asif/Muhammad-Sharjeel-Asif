@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m @MuhammadSharjeel
+👀 I’m interested in Tech related things.
+🌱 I’m currently learning GenAI, Web3 & Metaverse.
+💞️ I’m not looking to collaborate for now.
+📫 How to reach me bazifworks@gmail.com
+😄 Pronouns: He/Him.
+⚡ Fun fact: I'm Enrolled in Governor Initiative Onsite Course.
 
-<!--
-**Muhammad-Sharjeel-Asif/Muhammad-Sharjeel-Asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills & Tools
+- Languages: Python, TypeScript
+- Frameworks & Tools: Next JS
 
-Here are some ideas to get you started:
+📈 Stats
+- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Sharjeel-Asif&show_icons=true&theme=tokyonight&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://linkedin.com/in/muhammad-sharjeel-asif)
