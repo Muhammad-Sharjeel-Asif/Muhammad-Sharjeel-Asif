@@ -18,11 +18,10 @@ Welcome to my GitHub profile! I'm passionate about technology, constantly learni
 Here’s a quick overview of the tools and technologies I use:
 
 - **Languages & Frameworks:** 
-  - Proficient in [Add specific programming languages you know].
-  - Exploring [GenAI-specific tools, Web3 libraries, or frameworks].
+  - Proficient in Typescript.
+  - Exploring GenAI , Web3, Metaverse].
 - **Tools & Platforms:**
-  - [List tools such as Git, VS Code, etc.]
-  - [Add more based on your skillset].
+  - Git, VS Code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sharjeel-Asif&layout=compact&theme=radical)
 
