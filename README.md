@@ -1,19 +1,46 @@
-# Hi there 👋, I'm [Muhammad Sharjeel]
+# Hi there 👋, I'm Muhammad Sharjeel
+
+Welcome to my GitHub profile! I'm passionate about technology, constantly learning, and excited about the endless possibilities it offers. Here's a little about me:
+
+---
 
 ## 🌟 About Me
-- 👀 I’m interested in Tech related things.
-- 🌱 I’m currently learning GenAI, Web3 & Metaverse.
-- 💞️ I’m not looking to collaborate for now.
-- 📫 How to reach me m.sharjeelasif1435@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm Enrolled in Governor Initiative Onsite Course.
+- 👀 **Interests:** Tech-related things, innovation, and emerging technologies.
+- 🌱 **Currently Learning:** GenAI, Web3, and Metaverse.
+- 💞️ **Collaboration:** Not looking to collaborate for now.
+- 📫 **How to Reach Me:** [m.sharjeelasif1435@gmail.com](mailto:m.sharjeelasif1435@gmail.com)
+- 😄 **Pronouns:** He/Him.
+- ⚡ **Fun Fact:** I'm enrolled in the prestigious **Governor Initiative Onsite Course.**
+
+---
 
 ## 🛠️ Skills & Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sharjeel-Asif&layout=compact)
+Here’s a quick overview of the tools and technologies I use:
 
+- **Languages & Frameworks:** 
+  - Proficient in [Add specific programming languages you know].
+  - Exploring [GenAI-specific tools, Web3 libraries, or frameworks].
+- **Tools & Platforms:**
+  - [List tools such as Git, VS Code, etc.]
+  - [Add more based on your skillset].
 
-## 📈 Stats
-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Sharjeel-Asif&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Sharjeel-Asif&layout=compact&theme=radical)
+
+---
+
+## 📈 GitHub Stats
+Here’s a snapshot of my GitHub activity:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Sharjeel-Asif&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🌐 Connect With Me
+Feel free to connect with me through the following platforms:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://linkedin.com/in/muhammad-sharjeel-asif)
+
+---
+
+### Thank You! 🙌
+Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to connect.
